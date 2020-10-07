@@ -65,13 +65,13 @@
 // ar(line ,s);
 
 
-//
-//  let somewords = "привет мир";
-//  let str = "мир";
-//  if(somewords.includes(str))
-//      console.log("содержит");
-//  else
-// console.log("не содержит")
+
+ let somewords = "привет мир";
+ let str = "мир";
+ if(somewords.includes(str))
+     console.log("содержит");
+ else
+console.log("не содержит")
 
 
 //1
